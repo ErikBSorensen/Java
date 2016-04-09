@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=aName\ aAddress\ aCity\ aTopBeer
+comment0.target=Beer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PriceRange\r\n
+comment1.params=
+comment1.target=void\ printPubInfo()
+comment1.text=\r\n\ Print\ information\ including\ ($\ -\ $$$$)\ price\ rating\ on\ this\ pub\r\n
+numComments=2

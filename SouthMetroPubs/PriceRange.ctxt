@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=aName\ aAddress\ aCity
+comment0.target=PriceRange(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PriceRange\r\n
+comment1.params=
+comment1.target=int\ getPriceRating()
+comment1.text=\r\n\ @return\ the\ price\ rating\ of\ this\ pub\r\n
+comment2.params=newPriceRating
+comment2.target=void\ setPriceRating(int)
+comment2.text=\r\n\ @param\ set\ the\ price\ rating\ of\ this\ pub\r\n
+comment3.params=
+comment3.target=void\ printPubInfo()
+comment3.text=\r\n\ Print\ information\ including\ ($\ -\ $$$$)\ price\ rating\ on\ this\ pub\r\n
+numComments=4

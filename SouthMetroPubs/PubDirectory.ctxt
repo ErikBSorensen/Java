@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PubDirectory()
+comment0.text=\r\n\ A\ directory\ South\ Metro\ pubs\r\n
+comment1.params=name\ address\ city\ googleRating\ yelpRating\ userRating\ priceRating\ topBeer
+comment1.target=void\ addPub(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Adds\ new\ pub\ with\ name,\ address,\ city,\ google,\ yelp\ and\ user\ ratings\ and\ price\ ratings\r\n
+comment2.params=
+comment2.target=int\ getNumPubs()
+comment2.text=\r\n\ @returns\ count\ of\ pubs\ in\ this\ directory\r\n
+comment3.params=
+comment3.target=void\ clearPubDirectory()
+comment3.text=\r\n\ Removes\ all\ the\ pubs\ in\ the\ directory\r\n
+comment4.params=
+comment4.target=void\ printPub()
+comment4.text=\r\n\ Print\ information\ on\ this\ pub\r\n
+numComments=5
